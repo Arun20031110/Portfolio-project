@@ -1,3 +1,3 @@
 document.getElementById("myButton").addEventListener("click", function() {
-        window.location.href = "/Service.html";
+        window.location.href = "Service.html";
     });
